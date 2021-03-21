@@ -104,7 +104,7 @@ function App() {
                   <tr className="no-data-container">
                     <td colSpan={4}>
                       <h2>There is no data.</h2>
-                      <h3>Please searcch for data.</h3>
+                      <h3>Please search for data.</h3>
                     </td>
                   </tr>
                 )}
